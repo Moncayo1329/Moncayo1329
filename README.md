@@ -1,4 +1,4 @@
-<h1>Hello world 👋<br>I'm Michael Moncayo.</h1><br> 
+<h1>Hello world 👋<br>I'm Michael Moncayo</h1><br> 
 <ul>
   <li><h3>📚I love economics and finance. I have an economic blog.</h3> https://substack.com/@michaelmoncayo</li>
   <li><h3>🛠️I am constantly learning and I like to build things.</h3></li>
