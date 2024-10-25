@@ -1,7 +1,7 @@
 <h1>Hello World 👋<br>I'm Michael Moncayo</h1><br> 
 <ul>
   <li><h3>📚I love Economics and Finance.</h3> 
-  <li><h3>🛠️I am constantly learning and I like to build things.</h3></li>
+  <li><h3>🛠️I'm constantly learning, and I enjoy building things.</h3></li>
 </ul>
 <div>
   <h1> Currently learning</h1>
