@@ -1,6 +1,6 @@
 <h1>Hello World 👋<br>I'm Michael Moncayo</h1><br> 
 <ul>
-  <li><h3>📚I love economics and finance.</h3> 
+  <li><h3>📚I love Economics and Finance.</h3> 
   <li><h3>🛠️I am constantly learning and I like to build things.</h3></li>
 </ul>
 <div>
