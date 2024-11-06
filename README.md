@@ -1,4 +1,4 @@
-<h1>Hello World 👋<br>I'm Michael Moncayo</h1><br> 
+<h1>Hello World 👋<br>I'm Michael Moncayo.</h1><br> 
 <ul>
   <li><h3>📚My main focus is studying Economics, Politics, and Finance</h3> 
   <li><h3>🛠️I’m also constantly learning to code for fun, and I enjoy building things.</h3></li>
