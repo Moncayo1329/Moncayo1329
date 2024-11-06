@@ -7,6 +7,7 @@
   <h1> Around the web 🌐</h1> 
     <li><h5><a href="https://x.com/MichaelMoncay7">X</a></h5></li> 
     <li><h5><a href="https://www.linkedin.com/in/michael-moncayo-35725519a/">Linkedin</a></h5></li> 
+    <li><h5><a href="https://substack.com/@michaelmoncayo?utm_source=user-menu">blog</a></h5></li> 
     <li><h5><a href="https://www.chess.com/member/moncayo7">Chess</a></h5></li> 
 </ul>
 <div>
