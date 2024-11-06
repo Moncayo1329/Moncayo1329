@@ -1,7 +1,8 @@
 <h1>Hello World 👋<br>I'm Michael Moncayo.</h1><br> 
 <ul> 
    <h1>About me</h1>
-  <li><h3>📚My main focus is studying Economics, Politics, and Finance</h3> 
+  <li><h3>📚My main focus is studying Economics, Politics, and Finance</h3> </li>
+   <li><h5>You can read my blog <a href="https://substack.com/@michaelmoncayo">here</a></h5></li>
   <li><h3>🛠️I’m also constantly learning to code for fun, and I enjoy building things.</h3></li>
 </ul>
 <div>
