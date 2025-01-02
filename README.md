@@ -1,6 +1,6 @@
    <h1>Hello World👋</h1>
 <ul> 
-   <h1>About me .📌</h1> 
+   <h1>About me 📌</h1> 
   <li><h3>I'm Michael Moncayo.😄</h3></li>
   <li><h3>My main focus is studying Economics, Politics, and Finance.📚</h3> <p>You can read my blog <a href="https://substack.com/@michaelmoncayo">here</a></p></li>
   <li><h3>I’m also constantly learning to code for fun, and I enjoy building things.🛠️</h3></li> 
