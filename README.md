@@ -7,7 +7,7 @@
   <h1> Around the web 🌐</h1> 
     <li><p><a href="https://x.com/MichaelMoncay7">X</a></p></li> 
     <li><p><a href="https://www.linkedin.com/in/michael-moncayo-35725519a/">Linkedin</a></p></li> 
-    <li><p><a href="economíabullish.com">blog</a></p></li> 
+    <li><p><a href="https://www.xn--economabullish-5lb.com/">blog</a></p></li> 
     <li><p><a href="https://www.chess.com/member/moncayo7">Chess</a></p></li> 
 </ul>
 <div>
