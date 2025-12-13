@@ -1,4 +1,4 @@
-   <h1>Hello World.👋</h1>
+   <h1>Hello World👋</h1>
 <ul> 
    <h1>About me 📌</h1> 
   <li><h3>I'm Michael Moncayo.😄</h3></li>
