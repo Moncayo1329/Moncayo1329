@@ -12,7 +12,8 @@
 </ul> 
 <div>
    <h2> Currentely working</h2>
-   <li>https://hippie.vercel.app/</li>
+   <li>Working on website to sell second hand clothes and accessories: https://hippie.vercel.app/</li>
+   <li>Recording a Podcast about my journey in IA</li>
 </div>
 <div>
   <h1> Currently learning</h1>
