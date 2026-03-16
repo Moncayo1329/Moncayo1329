@@ -12,7 +12,7 @@
 </ul> 
 <div>
    <h2> Currentely working</h2>
-   <li>Hello</li>
+   <li>https://hippie.vercel.app/</li>
 </div>
 <div>
   <h1> Currently learning</h1>
