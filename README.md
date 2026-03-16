@@ -14,6 +14,7 @@
    <h2> Currentely working</h2>
    <li>Working on website to sell second hand clothes and accessories: https://hippie.vercel.app/</li>
    <li>Recording a Podcast about my journey in IA</li>
+   <li>A website to the basketball team of my dad in Ecuador</li>
 </div>
 <div>
   <h1> Currently learning</h1>
