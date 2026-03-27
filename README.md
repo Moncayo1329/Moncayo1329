@@ -10,9 +10,9 @@
     <li><p><a href="https://www.xn--economabullish-5lb.com/">blog</a></p></li> 
     <li><p><a href="https://www.chess.com/member/moncayo7">Chess</a></p></li> 
 </ul> 
-<div>
-   <h2> Currentely working</h2>
-   <li>Working on website to sell second hand clothes and accessories: https://hippie.vercel.app/</li>
+## Currently Working On
+- **Website to sell second-hand clothes and accessories**  
+  [hippie.vercel.app](https://hippie.vercel.app/)
    <li>Recording a Podcast about my journey in IA</li>
    <li>A website to the basketball team of my dad in Ecuador</li>
 </div>
