@@ -8,7 +8,7 @@
 
 ## Around the web 🌐
 
-- [𝕏 (Twitter)](https://x.com/MichaelMoncay7)
+- [𝕏](https://x.com/MichaelMoncay7)
 - [LinkedIn](https://www.linkedin.com/in/michael-moncayo-35725519a/)
 - [Blog](https://www.xn--economabullish-5lb.com/)
 - [Chess.com](https://www.chess.com/member/moncayo7)
