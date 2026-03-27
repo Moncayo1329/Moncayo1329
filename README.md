@@ -1,21 +1,26 @@
-   <h1>Hello World👋</h1>
-<ul> 
-   <h1>About me 📌</h1> 
-  <li><h3>I'm Michael Moncayo.😄</h3></li>
-  <li><h3>My main focus is studying Economics, Politics, and Finance📚</h3></li>
-  <li><h3>I’m also constantly learning to code for fun, and I enjoy building things🛠️</h3></li> 
-  <h1> Around the web 🌐</h1> 
-    <li><p><a href="https://x.com/MichaelMoncay7">X</a></p></li> 
-    <li><p><a href="https://www.linkedin.com/in/michael-moncayo-35725519a/">Linkedin</a></p></li> 
-    <li><p><a href="https://www.xn--economabullish-5lb.com/">blog</a></p></li> 
-    <li><p><a href="https://www.chess.com/member/moncayo7">Chess</a></p></li> 
-</ul> 
+  # Hello World 👋
+
+## About me 📌
+
+- **I'm Michael Moncayo.** 😄
+- **My main focus is** studying Economics, Politics, and Finance 📚
+- **I’m also constantly learning to code** for fun and I enjoy building things 🛠️
+
+## Around the web 🌐
+
+- [𝕏 (Twitter)](https://x.com/MichaelMoncay7)
+- [LinkedIn](https://www.linkedin.com/in/michael-moncayo-35725519a/)
+- [Blog](https://www.xn--economabullish-5lb.com/)
+- [Chess.com](https://www.chess.com/member/moncayo7)
+
 ## Currently Working On
+
 - **Website to sell second-hand clothes and accessories**  
-  [hippie.vercel.app](https://hippie.vercel.app/)
-   <li>Recording a Podcast about my journey in IA</li>
-   <li>A website to the basketball team of my dad in Ecuador</li>
-</div>
+  → [hippie.vercel.app](https://hippie.vercel.app/)
+
+- **Podcast** about my journey in **AI** (recording episodes)
+
+- **Website for my dad's basketball team** in Ecuador
 <div>
   <h1> Currently learning</h1>
   <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" />
