@@ -15,7 +15,7 @@
 
 ## Currently Working On
 
-- **Website to sell second-hand clothes and accessories**.[hippie.vercel.app](https://hippie.vercel.app/)
+- **Website to sell second-hand clothes and accessories**. [hippie.vercel.app](https://hippie.vercel.app/)
 
 - **Recording a Podcast** about my journey in **AI**
 
