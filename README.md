@@ -1,4 +1,4 @@
-  # Hello World 👋
+# Hello World 👋
 
 ## About me 📌
 
@@ -16,9 +16,9 @@
 ## Currently Working On
 
 - **Website to sell second-hand clothes and accessories**  
-  → [hippie.vercel.app](https://hippie.vercel.app/)
+   [hippie.vercel.app](https://hippie.vercel.app/)
 
-- **Podcast** about my journey in **AI** (recording episodes)
+- **Recording a Podcast** about my journey in **AI**
 
 - **Website for my dad's basketball team** in Ecuador
 <div>
