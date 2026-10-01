@@ -17,9 +17,6 @@
 
 - **Website to sell second-hand clothes and accessories**. [hippie.vercel.app](https://hippie.vercel.app/)
 
-- **Recording a Podcast** about my journey in **AI**
-
-- **Website for my dad's basketball team** in Ecuador
 ## Currently Learning
 
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)  
